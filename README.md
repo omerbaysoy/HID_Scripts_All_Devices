@@ -1,12 +1,12 @@
 HID scripts I've collected for Boards and DIY pentest devices.
 
 
-## Devices ##
--Flipper Zero
--P4wnP1 A.L.O.A
--Digispark Attiny85
--Raspberry Pico/Pico-W
--
+## Devices 
+- [Flipper Zero]
+- [P4wnP1 A.L.O.A]
+- [Digispark Attiny85]
+- [Raspberry Pico/Pico-W]
+- [Hak5 Rubber Ducky]
 
 
-## The sources I use are listed below ##
+## The sources I use are listed below 
