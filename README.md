@@ -1,4 +1,4 @@
-## HID scripts I've collected for Boards and DIY pentest devices.
+## HID scripts I've collected for Bad-Usb, RubberDucky and DIY pentest devices.
 
 
 ## Devices/Boards 
